@@ -67,7 +67,11 @@ Correct instances where the title indicates DSG but is recorded as manual transm
 
 ## Plotting Results
 Visualize key findings from the analysis using appropriate plots to illustrate trends in mileage, pricing, and engine types across different vehicle categories.
+![newplot](https://github.com/user-attachments/assets/f9e1a6bf-64ba-48a5-b446-880bc09c01b9)
+**The data indicates that "tsi" engines are predominant in most vehicle categories, particularly in "Cabriolet / Roadster," "Estate Car," "Saloon," and "Small Car," while "hybrid" engines have low adoption rates across all categories. Estate Cars favor "tsi" and "tdi" engines for performance and efficiency, whereas Small Cars show a broader range of engine types, reflecting diverse consumer preferences.**
 
+![boxplot](https://github.com/user-attachments/assets/19a9ca68-4748-4208-ae1f-cd828db8ee89)
+**The data indicates that Cabriolet/Roadster vehicles, despite having a smaller sample size, exhibit higher average mileage and smaller price range compared to other categories, suggesting they are often used more efficiently or have longer lifespans.Price trends reveal that "gti" and "gtd" engines typically have higher net prices, reflecting their performance-oriented nature compared to other engine types.**
 
 ## Conclusion 
 This project provides valuable insights into vehicle performance metrics across different categories and engine types, highlighting trends that can inform consumer choices and manufacturing strategies.
